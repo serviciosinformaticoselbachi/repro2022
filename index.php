@@ -1,4 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mi pagina de prueba</title>
+  </head>
+  <body>
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/lunaradio-sincors.js"></script>
 
@@ -39,3 +45,5 @@ debug: "false",
 autoplay: "true"
 });
 </script>
+ </body>
+</html>
